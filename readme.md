@@ -5,6 +5,8 @@ The APD/PPE Detection System utilizes transfer learning on YOLOv8 for efficient 
 
 Additionally, the system employs OpenVINO for quantization, enhancing performance by optimizing the model to perform inference up to 3 times faster. This optimization ensures real-time or near-real-time processing, crucial for swift response to potential hazards.
 
+The demo result can be found at https://drive.google.com/drive/folders/1-9fR3loG3AchE_H82DmmoQQyTT_dScF4
+
 # PPE Detection using YOLOv8
 
 This repository implements PPE (Personal Protective Equipment) detection using YOLOv8, a state-of-the-art object detection algorithm. Below, we detail the components and usage of this project.
